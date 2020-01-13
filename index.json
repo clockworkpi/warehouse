@@ -1,3 +1,7 @@
 {
-	"list":[{"title":"2019 GAME JAM","file":"https://raw.githubusercontent.com/clockworkpi/warehouse/master/2019%20GAME%20JAM/index.json","type":"dir"}]
+	"list":[
+{"title":"2019 GAME JAM","file":"https://raw.githubusercontent.com/clockworkpi/warehouse/master/2019%20GAME%20JAM/index.json","type":"dir"},
+{"title":"GameJam 19q4","file":"https://raw.githubusercontent.com/clockworkpi/warehouse/master/GameJam%2019q4/index.json","type":"dir"}
+]
+
 }
